@@ -1,16 +1,16 @@
 # tableau_retail_data
 Dashboard that can help analyze the sales patterns across stores and their departments. 
 
-Two Controls:
+## Two Controls:
 1. A (Month, Year) filter.
 2. A user control to select either one of the five markdowns or total markdown.
 These controls should work across the entire dashboard. [10]
-Visualization 1
+### Visualization 1
 A dual-axis visualization showing sales & markdowns by week. It should be divided into three
 parts, showing results by three store types – hypermarkets, discount stores, and
 neighborhood stores. Sales during holiday weeks should be colored differently from sales
 during non-holiday weeks. [20]
-Visualization 2
+#### Visualization 2
 A dual-axis visualization showing sales & markdowns by store. It should be divided into three
 parts, showing results by three store types – hypermarkets, discount stores, and
 neighborhood stores. [15]
